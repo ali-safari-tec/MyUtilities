@@ -2,9 +2,11 @@
 
 <div align="center">
 
-### DLL for use in general C# programs
+### Utility Library for C# Applications
 
-A C# library that includes methods such as (hash sring, Http Manager, build JSON with text & convert JSON to simple text, get value with key in JSON file and data base services).
+A collection of reusable utility classes and helper methods designed to simplify common tasks in C# applications.
+
+Includes tools for hashing, HTTP requests, JSON processing, database operations, file management, and other frequently used functionalities.
 
 <br>
 
@@ -12,3 +14,28 @@ A C# library that includes methods such as (hash sring, Http Manager, build JSON
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-2022-green?style=for-the-badge)
 
 </div>
+
+---
+
+# ✨ Features
+
+✅ Hash utilities (MD5, SHA, etc.)
+
+✅ HTTP request manager
+
+✅ JSON creation and parsing
+
+✅ Convert JSON to readable text
+
+✅ Get values by key from JSON objects
+
+✅ Database helper services
+
+---
+
+# 🛠 Technologies
+
+| Purpose                   | Technology |
+| ------------------------- | ---------- |
+| Main programming language | C#         |
+| Runtime                   | .NET       |
