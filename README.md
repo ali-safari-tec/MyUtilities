@@ -10,8 +10,9 @@ Includes tools for hashing, HTTP requests, JSON processing, database operations,
 
 <br>
 
-![C#](https://img.shields.io/badge/C%23-language-purple?style=for-the-badge)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-2022-green?style=for-the-badge)
+![Language](https://img.shields.io/badge/Language-C%23-purple?style=flat)
+![Runtime](https://img.shields.io/badge/Runtime-.NET%209-brown?style=flat)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-2022-green?style=flat)
 
 </div>
 
